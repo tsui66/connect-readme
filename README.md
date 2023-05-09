@@ -9,23 +9,27 @@ The ultimate service for managing multi-channel notifications with a single API.
 </div>
 
 <h3>Your Topic</h3>
-<p>Description</p>
+<p>Get AI newsletter recommendations tailored to developers and startups using ChatGPT prompt.</p>
 
 <h3>Technologies being used</h3>
-<p>NextJS / Python / Laravel / NestJS, anything you can to help us bring the right people to test the project</p>
+<p>NextJS / gpt-3.5/4 / LangChain / Prisma / Novu / pgvector</p>
 
 <h3>App Link</h3>
-<p>If there is</p>
+<p>https://news.gptea.co</p>
 
 <h3>Screenshoot</h3>
-<img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
+<img width="1128" alt="image" src="https://github.com/gptea-ai/gptea-news/blob/main/images/gptea-news-portal.png">
 
 <h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+<p>1. Scrape newsletters data. </p>
+<p>2. Store embeddings in Postgres with pgvector.</p>
+<p>3. Perform vector similarity search to find the most relevant content to the question in the scraped newsletters data.</p>
+<p>4. Use the found content to generate text completion through OpenAI GPT-3.5/4 API and store results in Postgres database.</p>
+<p>5. Send newsletters in bulk every week using Novu.</p>
 
 
 <h3>Who are you?</h3>
-<p>Give us your best description who are you, and why you have decided to build this project</p>
+<p>We value open-source and love to use tools to increase efficiency.We value open-source and love to use tools to increase efficiency.</p>
 
 <h3>Additional Resources/Info</h3>
-<p>If you have</p>
+<p>To be added</p>
