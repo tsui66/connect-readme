@@ -32,4 +32,4 @@ The ultimate service for managing multi-channel notifications with a single API.
 <p>We value open-source and love to use tools to increase efficiency.We value open-source and love to use tools to increase efficiency.</p>
 
 <h3>Additional Resources/Info</h3>
-<p>To be added</p>
+<p>[Open source repo](https://github.com/gptea-ai/gptea-news)</p>
